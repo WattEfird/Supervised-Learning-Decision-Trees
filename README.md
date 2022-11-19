@@ -1,8 +1,10 @@
 # INN_Hotels
 Logistic Regression and Decision Trees for predicting hotel booking cancellations
-There were 2 options given to complete this project -- Low Code and Full Code-- 
-Low Code option provides most of the code already written with different parts of the notebook having empty cells to complete.
-For low code, a presentation in pdf form is turned in, and i choose this option because I had done all my other projects in Full Code. 
+I chose to approach this project the low code method
+The low-code way is to use an existing solution notebook template to build the solution and then submit a business presentation with insights and recommendations.
+full code -s to write all code from scratch and provide actions and insights at the end--I had done all my other projects in full code, but wanted to try this one in low-code to have experience in both types of environments.  
+Full code is geared towards those who aspire to be in hands-on coding roles focusing on building solution codes from scratch
+Low-code way is geared towards those who aspire to be in managerial roles focusing on solution review, interpretation and communicating with business stakeholders.  
 I started with data preprocessing and EDA using descriptive statistics and visualizations.
 Next I performed data preprocessing, and then built a model.
 Next I checked its performance
